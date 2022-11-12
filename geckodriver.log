@@ -1,0 +1,963 @@
+1668215728259	geckodriver	INFO	Listening on 127.0.0.1:49499
+1668215731311	mozrunner::runner	INFO	Running command: "C:\\P1668215731803	mozrunner::runner	INFO	Running command: "C:\\P1668215732778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileQuF9OL"
+1668215733283	Marionette	INFO	Marionette enabled
+1668215733289	Marionette	INFO	Listening on port 49569
+Read port: 49569
+WebDriver BiDi listening on ws://127.0.0.1:49527
+1668215733414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileQuF9OL\\search.json1668215736907	Marionette	INFO	Stopped listening on port 49538
+JavaScript error: resource://gre/modules/Sqlite.jsm, line1668215737975	Marionette	INFO	Stopped listening on port 49569
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+ns.sqlite
+1668215830299	geckodriver	INFO	Listening on 127.0.0.1:49718
+1668215833351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile08WS2a"
+1668215833638	Marionette	INFO	Marionette enabled
+1668215833641	Marionette	INFO	Listening on port 49730
+Read port: 49730
+WebDriver BiDi listening on ws://127.0.0.1:49719
+1668215833728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile08WS2a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49719/devtools/browser/f8a48a27-3c6a-4a52-9090-0f3696ab434a
+1668215838281	Marionette	INFO	Stopped listening on port 49730
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668216010664	geckodriver	INFO	Listening on 127.0.0.1:49806
+1668216013723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilejwHZM3"
+1668216014019	Marionette	INFO	Marionette enabled
+1668216014022	Marionette	INFO	Listening on port 49820
+Read port: 49820
+WebDriver BiDi listening on ws://127.0.0.1:49807
+1668216014111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilejwHZM3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49807/devtools/browser/c63d2876-c2e8-43f6-980d-f99e3e97415a
+1668216015779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1668216017818	Marionette	INFO	Stopped listening on port 49820
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668216050688	geckodriver	INFO	Listening on 127.0.0.1:49859
+1668216053744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49860" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilejJDgrd"
+1668216054008	Marionette	INFO	Marionette enabled
+1668216054011	Marionette	INFO	Listening on port 49870
+WebDriver BiDi listening on ws://127.0.0.1:49860
+Read port: 49870
+1668216054175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilejJDgrd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49860/devtools/browser/52eef924-fcc3-408b-b031-14810afe3cc2
+1668216055639	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1668216057691	Marionette	INFO	Stopped listening on port 49870
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668216088006	geckodriver	INFO	Listening on 127.0.0.1:49910
+1668216091034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileKaWIJO"
+1668216091304	Marionette	INFO	Marionette enabled
+1668216091307	Marionette	INFO	Listening on port 49922
+WebDriver BiDi listening on ws://127.0.0.1:49911
+Read port: 49922
+1668216091470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileKaWIJO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49911/devtools/browser/3abffc9d-946e-410d-a371-55c8e446a394
+1668216092878	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 698"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:698:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:542:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:445:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:409:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2149:35
+addAllSources@resource://devtools/server/actors/thread.js:1481:14
+watch@resource://devtools/server/actors/resources/sources.js:76:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:44:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 698, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 698: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://devtools/client/shared/widgets/tooltip/HTMLTooltip.js, line 921: TypeError: node.ownerDocument is null
+console.warn: ({})
+console.error: "Task cancelled"
+console.warn: ({})
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22b68af405-ec77-474e-8d80-7f797cf47ae0%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 641: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2731
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 641: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2731
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 641: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2731
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 641: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2731
+console.warn: ({})
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 641: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2731
+JavaScript error: moz-extension://474b9712-dbe1-4d97-865e-0d6af0ac45b0/shims/microsoftLogin.js, line 23: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 641: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2731
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 641: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2731
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.warn: ({})
+console.error: "stylesheets: fetch failed for https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default.min-17e8dd1.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default.min-17e8dd1.css, using system principal instead."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.warn: ({})
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22eb4c5fb5-caad-4125-b806-c054e40e98fb%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+console.error: "Task cancelled"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2226c5c265-bba2-4849-ad89-77962ee41ca7%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: https://statics.teams.cdn.office.net/hashed/3.1-app.min-dcea476.js, line 1: TypeError: n is null
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22f3bd8d8e-0817-45b6-89c6-e83969b5ba2a%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668217229349	Marionette	INFO	Stopped listening on port 49922
+e-debugging-port" "50143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileVEazgO"
+1668216715583	Marionette	INFO	Marionette enabled
+1668216715586	Marionette	INFO	Listening on port 50154
+WebDriver BiDi listening on ws://127.0.0.1:50143
+Read port: 50154
+1668216715765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileVEazgO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50143/devtools/browser/fc5fb581-88ef-40d0-a2a4-bfb3bb7d7c69
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22199148b2-bda2-4569-bcf5-7488cbae238b%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://teams.microsoft.com."
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.warn: ({})
+console.error: "stylesheets: fetch failed for https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default.min-17e8dd1.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default.min-17e8dd1.css, using system principal instead."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.warn: "Error while destroying front:" "accessibility" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967305/accessibilityActor13, type getSimulator failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ninitialize@resource://devtools/client/fronts/accessibility.js:536:39\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967305/accessibilityActor13, type getSimulator failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19
+initialize@resource://devtools/client/fronts/accessibility.js:536:39
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22b3b81efb-21eb-4531-9488-ccc57fe3edca%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%221d438c59-820c-4472-91d2-f22b95726ac4%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://teams.microsoft.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668216914211	Marionette	INFO	Stopped listening on port 50154
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668216953545	geckodriver	INFO	Listening on 127.0.0.1:50314
+1668216956614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileEPiGtP"
+1668216957114	Marionette	INFO	Marionette enabled
+1668216957117	Marionette	INFO	Listening on port 50326
+Read port: 50326
+WebDriver BiDi listening on ws://127.0.0.1:50315
+1668216957205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileEPiGtP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50315/devtools/browser/2f9e2238-e408-4de7-b790-d00bd4227d4a
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22fbd9671d-0f0f-426a-bb0b-14ede7f57019%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668217230936	Marionette	INFO	Stopped listening on port 50326
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+mote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileV5VtXN"
+1668217215873	Marionette	INFO	Marionette enabled
+1668217215876	Marionette	INFO	Listening on port 50453
+Read port: 50453
+WebDriver BiDi listening on ws://127.0.0.1:50442
+1668217215971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileV5VtXN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50442/devtools/browser/bd728c19-b304-4224-af2e-bda398cc1e56
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668217232339	Marionette	INFO	Stopped listening on port 50453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668217235070	geckodriver	INFO	Listening on 127.0.0.1:50472
+1668217238104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileg0206B"
+1668217238374	Marionette	INFO	Marionette enabled
+1668217238377	Marionette	INFO	Listening on port 50484
+WebDriver BiDi listening on ws://127.0.0.1:50473
+Read port: 50484
+1668217238547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileg0206B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50473/devtools/browser/19d23455-c7cf-439e-824a-b38bff61323d
+1668217244412	Marionette	INFO	Stopped listening on port 50484
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668217332022	geckodriver	INFO	Listening on 127.0.0.1:50529
+1668217335079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileewPZpI"
+1668217335360	Marionette	INFO	Marionette enabled
+1668217335363	Marionette	INFO	Listening on port 50542
+Read port: 50542
+WebDriver BiDi listening on ws://127.0.0.1:50530
+1668217335459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileewPZpI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50530/devtools/browser/e4be52f4-b6f2-4a8e-8f65-3cc8044a0bdb
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668217340858	Marionette	INFO	Stopped listening on port 50542
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668217526453	geckodriver	INFO	Listening on 127.0.0.1:50611
+1668217529502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile0Rb2t2"
+1668217529784	Marionette	INFO	Marionette enabled
+1668217529787	Marionette	INFO	Listening on port 50623
+Read port: 50623
+WebDriver BiDi listening on ws://127.0.0.1:50612
+1668217529882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile0Rb2t2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50612/devtools/browser/2d674ddb-f80e-4a38-8c5f-d3c5fc75a701
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22251bcc38-5e7d-4775-9758-7d1013c92177%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668217545656	Marionette	INFO	Stopped listening on port 50623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668217620250	geckodriver	INFO	Listening on 127.0.0.1:50690
+1668217623290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilepAWern"
+1668217623584	Marionette	INFO	Marionette enabled
+1668217623588	Marionette	INFO	Listening on port 50702
+Read port: 50702
+WebDriver BiDi listening on ws://127.0.0.1:50691
+1668217623673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilepAWern\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50691/devtools/browser/10728618-004d-43b7-b5ba-cee7d1d23eaa
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%223b98b9e0-e3f5-4088-be4e-4bb9ad9f11b6%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://teams.microsoft.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668219099973	Marionette	INFO	Stopped listening on port 50702
+[Parent 11984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668219102036	geckodriver	INFO	Listening on 127.0.0.1:50888
+1668219105083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileJJC0vW"
+1668219105363	Marionette	INFO	Marionette enabled
+1668219105366	Marionette	INFO	Listening on port 50899
+Read port: 50899
+WebDriver BiDi listening on ws://127.0.0.1:50889
+1668219105447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileJJC0vW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50889/devtools/browser/b1c9defd-f0aa-465a-9f50-170f6a5c6eb0
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22ee481b69-ddf8-45d3-a384-8b745821b672%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668219121967	Marionette	INFO	Stopped listening on port 50899
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668219146786	geckodriver	INFO	Listening on 127.0.0.1:50959
+1668219149822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofiledbz8c5"
+1668219150108	Marionette	INFO	Marionette enabled
+1668219150111	Marionette	INFO	Listening on port 50970
+Read port: 50970
+WebDriver BiDi listening on ws://127.0.0.1:50960
+1668219150209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofiledbz8c5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50960/devtools/browser/c3ad3a91-8e88-4db8-8363-6ca1ba97bfc9
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%229e74e6d5-91c1-440b-8e80-799acccc062b%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668219181003	Marionette	INFO	Stopped listening on port 50970
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668219210329	geckodriver	INFO	Listening on 127.0.0.1:51028
+1668219213369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileE4NKuW"
+1668219213662	Marionette	INFO	Marionette enabled
+1668219213665	Marionette	INFO	Listening on port 51039
+Read port: 51039
+WebDriver BiDi listening on ws://127.0.0.1:51029
+1668219213754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileE4NKuW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51029/devtools/browser/760b80a0-903e-4da8-9212-e5ccabbce179
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%220a22ca00-9bb1-461e-b679-9f4487b60c68%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://teams.microsoft.com."
+SourceActor threw an exception: Error: Failed to fetch https://teams.microsoft.com/_#error=login_required&error_description=AADSTS50058%3a+A+silent+sign-in+request+was+sent+but+no+user+is+signed+in.+The+cookies+used+to+represent+the+user%27s+session+were+not+sent+in+the+request+to+Azure+AD.+This+can+happen+if+the+user+is+using+Internet+Explorer+or+Edge%2c+and+the+web+app+sending+the+silent+sign-in+request+is+in+different+IE+security+zone+than+the+Azure+AD+endpoint+(login.microsoftonline.com).%0d%0aTrace+ID%3a+449512c8-8a83-428f-b046-2a7270421d01%0d%0aCorrelation+ID%3a+08a309bb-9a66-4299-9111-37507acbeedc%0d%0aTimestamp%3a+2022-11-12+02%3a13%3a39Z&error_uri=https%3a%2f%2flogin.microsoftonline.com%2ferror%3fcode%3d50058&state=eyJpZCI6ImQxZGVhMTc3LTE0ZjYtNDUxZS04YzExLTQxMTNkNWJjNTExOCIsInRzIjoxNjY4MjE5MjE3LCJtZXRob2QiOiJyZWRpcmVjdEludGVyYWN0aW9uIn0%3d. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://teams.microsoft.com/_#error=login_required&error_description=AADSTS50058%3a+A+silent+sign-in+request+was+sent+but+no+user+is+signed+in.+The+cookies+used+to+represent+the+user%27s+session+were+not+sent+in+the+request+to+Azure+AD.+This+can+happen+if+the+user+is+using+Internet+Explorer+or+Edge%2c+and+the+web+app+sending+the+silent+sign-in+request+is+in+different+IE+security+zone+than+the+Azure+AD+endpoint+(login.microsoftonline.com).%0d%0aTrace+ID%3a+449512c8-8a83-428f-b046-2a7270421d01%0d%0aCorrelation+ID%3a+08a309bb-9a66-4299-9111-37507acbeedc%0d%0aTimestamp%3a+2022-11-12+02%3a13%3a39Z&error_uri=https%3a%2f%2flogin.microsoftonline.com%2ferror%3fcode%3d50058&state=eyJpZCI6ImQxZGVhMTc3LTE0ZjYtNDUxZS04YzExLTQxMTNkNWJjNTExOCIsInRzIjoxNjY4MjE5MjE3LCJtZXRob2QiOiJyZWRpcmVjdEludGVyYWN0aW9uIn0%3d. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://teams.microsoft.com/_#error=login_required&error_description=AADSTS50058%3a+A+silent+sign-in+request+was+sent+but+no+user+is+signed+in.+The+cookies+used+to+represent+the+user%27s+session+were+not+sent+in+the+request+to+Azure+AD.+This+can+happen+if+the+user+is+using+Internet+Explorer+or+Edge%2c+and+the+web+app+sending+the+silent+sign-in+request+is+in+different+IE+security+zone+than+the+Azure+AD+endpoint+(login.microsoftonline.com).%0d%0aTrace+ID%3a+449512c8-8a83-428f-b046-2a7270421d01%0d%0aCorrelation+ID%3a+08a309bb-9a66-4299-9111-37507acbeedc%0d%0aTimestamp%3a+2022-11-12+02%3a13%3a39Z&error_uri=https%3a%2f%2flogin.microsoftonline.com%2ferror%3fcode%3d50058&state=eyJpZCI6ImQxZGVhMTc3LTE0ZjYtNDUxZS04YzExLTQxMTNkNWJjNTExOCIsInRzIjoxNjY4MjE5MjE3LCJtZXRob2QiOiJyZWRpcmVjdEludGVyYWN0aW9uIn0%3d. Code 2152398878.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668219277929	Marionette	INFO	Stopped listening on port 51039
+[Parent 6560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668219302585	geckodriver	INFO	Listening on 127.0.0.1:51106
+1668219305621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileYYYHRk"
+1668219305896	Marionette	INFO	Marionette enabled
+1668219305899	Marionette	INFO	Listening on port 51117
+Read port: 51117
+WebDriver BiDi listening on ws://127.0.0.1:51107
+1668219305981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileYYYHRk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51107/devtools/browser/cb54e6ac-fb0f-459c-a865-e01860f6972a
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22e5c715e6-39f1-4c60-b338-5d8204ac7191%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668219438273	Marionette	INFO	Stopped listening on port 51117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668219440886	geckodriver	INFO	Listening on 127.0.0.1:51247
+1668219443952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile3T2HkE"
+1668219444222	Marionette	INFO	Marionette enabled
+1668219444225	Marionette	INFO	Listening on port 51258
+WebDriver BiDi listening on ws://127.0.0.1:51248
+Read port: 51258
+1668219444385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile3T2HkE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51248/devtools/browser/a1227458-de1a-44b2-97ba-45ec0a61e7e8
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22ad40981f-7d56-467d-9748-35db788bff06%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668219461876	Marionette	INFO	Stopped listening on port 51258
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668219471695	geckodriver	INFO	Listening on 127.0.0.1:51307
+1668219474760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileUkT5qc"
+1668219475059	Marionette	INFO	Marionette enabled
+1668219475062	Marionette	INFO	Listening on port 51317
+Read port: 51317
+WebDriver BiDi listening on ws://127.0.0.1:51308
+1668219475155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileUkT5qc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51308/devtools/browser/45dedc00-e331-4ad4-812a-f18352d092d2
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%227db8e166-0008-4456-917b-438b40c9db4b%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668219573123	Marionette	INFO	Stopped listening on port 51317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668219761202	geckodriver	INFO	Listening on 127.0.0.1:51431
+1668219764260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileCif8Ni"
+1668219764543	Marionette	INFO	Marionette enabled
+1668219764547	Marionette	INFO	Listening on port 51442
+Read port: 51442
+WebDriver BiDi listening on ws://127.0.0.1:51432
+1668219764647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileCif8Ni\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51432/devtools/browser/3a7d5123-74e1-437e-8996-356c745351e1
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2290510aa5-c5e2-4876-a5be-8b1046d27d61%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668219776444	Marionette	INFO	Stopped listening on port 51442
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668220092593	geckodriver	INFO	Listening on 127.0.0.1:51516
+1668220095617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileQ9X3i9"
+1668220095893	Marionette	INFO	Marionette enabled
+1668220095896	Marionette	INFO	Listening on port 51528
+Read port: 51528
+WebDriver BiDi listening on ws://127.0.0.1:51517
+1668220095978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileQ9X3i9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51517/devtools/browser/0d349b22-326f-40d6-9065-bd853dc8557a
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%223a7190d6-a7d0-4066-9d3d-ec37bbf5b864%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668220114800	Marionette	INFO	Stopped listening on port 51528
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668220671280	geckodriver	INFO	Listening on 127.0.0.1:51714
+1668220674335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileQ8yIsI"
+1668220674736	Marionette	INFO	Marionette enabled
+1668220674739	Marionette	INFO	Listening on port 51724
+Read port: 51724
+WebDriver BiDi listening on ws://127.0.0.1:51715
+1668220674827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileQ8yIsI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51715/devtools/browser/d9e3de55-4f17-4de7-98c5-a9faaf625cfb
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22e68f4a29-aa9c-4c8f-afdc-db3cd87e2281%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668220690240	Marionette	INFO	Stopped listening on port 51724
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668220759356	geckodriver	INFO	Listening on 127.0.0.1:51786
+1668220762379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileycgVHf"
+1668220762649	Marionette	INFO	Marionette enabled
+1668220762652	Marionette	INFO	Listening on port 51796
+WebDriver BiDi listening on ws://127.0.0.1:51787
+Read port: 51796
+1668220762747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileycgVHf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51787/devtools/browser/a7d31af4-8ca6-41a9-bba8-58f9675e8875
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%229e00a22b-b2bc-481e-8e39-d4837e60abc6%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668220812050	Marionette	INFO	Stopped listening on port 51796
+1668220967398	geckodriver	INFO	Listening on 127.0.0.1:51872
+1668220970453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileLIRitS"
+1668220970725	Marionette	INFO	Marionette enabled
+1668220970728	Marionette	INFO	Listening on port 51882
+WebDriver BiDi listening on ws://127.0.0.1:51873
+Read port: 51882
+1668220970894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileLIRitS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51873/devtools/browser/a12c8553-f973-4f5f-97b0-db1255f5b41b
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2239f92d8a-e05f-4f8d-98bb-eb62bec532b5%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668221015555	Marionette	INFO	Stopped listening on port 51882
+1668221027987	geckodriver	INFO	Listening on 127.0.0.1:51939
+1668221031043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileSp0Ia6"
+1668221031339	Marionette	INFO	Marionette enabled
+1668221031343	Marionette	INFO	Listening on port 51949
+Read port: 51949
+WebDriver BiDi listening on ws://127.0.0.1:51940
+1668221031432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileSp0Ia6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51940/devtools/browser/7d14100b-1e8e-43ef-84fb-5c138cb94cf2
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22b71d4803-8ab9-4b46-a4de-d42324d91170%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668221047588	Marionette	INFO	Stopped listening on port 51949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668221382604	geckodriver	INFO	Listening on 127.0.0.1:52050
+1668221385637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilevmhrQs"
+1668221385959	Marionette	INFO	Marionette enabled
+1668221385963	Marionette	INFO	Listening on port 52060
+WebDriver BiDi listening on ws://127.0.0.1:52051
+Read port: 52060
+1668221386205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilevmhrQs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52051/devtools/browser/be714744-98ec-470b-b678-6edbedbfe04d
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%226499e963-be81-4941-bfc5-c7a700df18ce%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668221435895	Marionette	INFO	Stopped listening on port 52060
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668221452953	geckodriver	INFO	Listening on 127.0.0.1:52121
+1668221455997	mozrunner::runner	INFO	Running command: "C:\\P1668221457019	mozrunner::runner	INFO	Running command: "C:\\P1668221458004	mozrunner::runner	INFO	Running command: "C:\\P1668221459004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileuHSd7r"
+1668221459757	Marionette	INFO	Marionette enabled
+1668221459763	Marionette	INFO	Listening on port 52229
+WebDriver BiDi listening on ws://121668221460056	mozrunner::runner	1668221460089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MarJavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%JavaScript error: https://teams.microsoft.com/statics/hashedJavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22a4211923-2a6c-4f97-a9e4-f079c5db4091%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%1668221503362	Marionette	INFO	Stopped listening on port 52144
+8221503129	Marionette	INFO	Stopped listening on port 52161
+8221502696	Marionette	INFO	Stopped listening on port 52191668221503274	Marionette	INFO	Stopped listening on port 52229
+worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%224b993b26-ccfb-41c3-a238-7cad0000ae39%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TJavaScript error: https://teams.microsoft.com/statics/has1668221503391	Marionette	INFO	Stopped listening on port 52269
+22general%22,%22sessionId%22:%2295f5f7e6-f5d8-432e-a837-6f09c95f3a9f%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 11668221503008	Marionette	INFO	Stopped listening on port 52318
+8221502821	Marionette	INFO	Stopped listening on port 52345
+8221502534	Marionette	INFO	Stopped listening on port 52371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+le server: NetworkError when attempting to fetch resource.
+{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668221484602	Marionette	INFO	Stopped listening on port 52444
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668221539946	geckodriver	INFO	Listening on 127.0.0.1:52781
+1668221542979	mozrunner::runner	INFO	Running command: "C:\\P1668221544010	mozrunner::runner	INFO	Running command: "C:\\P1668221544996	mozrunner::runner	INFO	Running command: "C:\\P1668221546003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileZJNpHy"
+1668221546292	Marionette	INFO	Marionette enabled
+1668221546296	Marionette	INFO	console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("CouDevTools listening on ws://127.0.0.1:52782/devtools/browser/DevTools listening on ws://127.0.0.1:5JavaScript error: https://teams.microsoft.com/statics/hashedJavaScript error: https://teams.microsoft.com/statics/hashedJavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22948240dd-0561-4275-9d56-4a233c457f0e%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: UnableJavaScript warning: https://statics.teams.cdn.office.net/hasJavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.b1668221613270	Marionette	INFO	Stopped listening on port 5280166!!! error running onStopped callback: TypeError: callback is!!! error runningconsole.warn: TopSitesFeed: Failed to fetchconsole.warn: TopSitesFeed: Failed to fetch data from Contile server: Networ[Parent 18816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+server: NetworkError when attempting to fetch resource.
+net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668221613373	Marionette	INFO	Stopped listening on port 52847
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668222811299	geckodriver	INFO	Listening on 127.0.0.1:53296
+1668222814352	mozrunner::runner	INFO	Running command: "C:\\P1668222815293	mozrunner::runner	INFO	Running command: "C:\\P1668222816313	mozrunner::runner	INFO	Running command: "C:\\P1668222817307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilee4OBdo"
+1668222817585	Marionette	INFO	Marionette enabled
+1668222817589	Marionette	INFO	console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilerhEconsole.warn: SearchSettings: "get: NoDevTools listening on ws://127.0.0.1:53297/devtools/browser/2f9648de-beb5-43b3-91f3-0c8a3e13eded
+JavaScript error: https://teams.microsoft.com/statics/hashedJavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22dacd5e06-3029-4b37-862d-1792d7ffdc80%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1JavaScript error: , line 0: uncaught exception: Unable to reJavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: UnableJavaScript warning: https://statics.teams.cdn.office.net/hasJavaScript warning: https://statics.teams.cdn.office.net/hasJavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.b1668222904708	Marionette	INFO	Stopped listening on port 53322
+console.warn: TopSitesFeed: Failed to fetch data from Con1668222904913	Marionette	INFO	Stopped listening on port 53351
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 17776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+erver: NetworkError when attempting to fetch resource.
+ed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22d34395b3-188c-446a-a825-67b50cc445c2%22,%22experienceName%22:%21668222904525	Marionette	INFO	Stopped listening on port 53371668222904733	Marionette	INFO	Stopped listening on port 53394
+console.warn: TopSitesFeed: Failed to fetch data from Contilconsole.warn: TopSitesFeed: Failed to fetch data from Contilconsole.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 14200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WEBGL_debug_renderer_info is depre1668222904761	Marionette	INFO	Stopped listening on port 53428
+!!! error running onStopped callback: TypeError: callback isconsole.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1668223009243	geckodriver	INFO	Listening on 127.0.0.1:54067
+1668223012291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofiledtcoK6"
+1668223012603	Marionette	INFO	Marionette enabled
+1668223012607	Marionette	INFO	Listening on port 54078
+Read port: 54078
+WebDriver BiDi listening on ws://127.0.0.1:54068
+1668223012689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofiledtcoK6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54068/devtools/browser/37e63244-442f-4a1f-abc7-a5b1eb0b6a64
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22d6e03749-b2c0-41e0-9fc3-c75bab0b92da%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/has1668223026539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileM87ZU3"
+1668223026900	Marionette	INFO	Marionette enabled
+1668223026906	Marionette	INFO	Listening on port 54149
+WebDriver BiDi listening on ws://127.0.0.1:54130
+Read port: 54149
+1668223027089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileM87ZU3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54130/devtools/browser/b95cb7d4-8b1a-4d96-adbe-147a5e61f1d7
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2270ae773a-265b-44e6-bc71-2feb5f4a5752%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668223048337	geckodriver	INFO	Listening on 127.0.0.1:54202
+1668223051396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54203" "--remote-allowJavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1
+Read port: 54221
+WebDriver BiDi listening on ws://127.0.0.1:54203
+1668223051789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileanPCIz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54203/devtools/browser/aa0495c1-ebbf-4754-a424-024eb4f77ffc
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%220b5b6523-5b3f-4129-b8f9-8199419e017f%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668223060503	geckodriver	INFO	Listening on 127.0.0.1:54275
+1668223063526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54276" "--remote-allowJavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+7
+Read port: 54297
+WebDriver BiDi listening on ws://127.0.0.1:54276
+1668223063905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileKaXeJ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54276/devtools/browser/62c9f624-cf07-43c9-932f-9ba8d029b2d1
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%225d821912-737a-416f-b7fa-a8ece7a7cf33%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/has1668223080944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54372" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileLigSkm"
+1668223081219	Marionette	INFO	Marionette enabled
+1668223081222	Marionette	INFO	Listening on port 54382
+Read port: 54382
+WebDriver BiDi listening on ws://127.0.0.1:54372
+1668223081331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668223260782	geckodriver	INFO	Listening on 127.0.0.1:54410
+1668223263807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileMmBf3D"
+1668223264114	Marionette	INFO	Marionette enabled
+1668223264118	Marionette	INFO	Listening on port 54420
+Read port: 54420
+WebDriver BiDi listening on ws://127.0.0.1:54411
+1668223264208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileMmBf3D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54411/devtools/browser/92742a3b-95fc-469a-88aa-738b9fb8aaad
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%220b9f9617-4af4-4918-8655-2924cc8ed1aa%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668223272876	Marionette	INFO	Stopped listening on port 54420
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[Parent 10356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668223276017	geckodriver	INFO	Listening on 127.0.0.1:54462
+1668223279039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilext9EZT"
+1668223279321	Marionette	INFO	Marionette enabled
+1668223279325	Marionette	INFO	Listening on port 54472
+Read port: 54472
+WebDriver BiDi listening on ws://127.0.0.1:54463
+1668223279407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilext9EZT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54463/devtools/browser/09976199-9356-4452-ba5c-43bb1bd75c78
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%221c171984-5fd9-4e5a-b3b8-f42817417dea%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668223740099	geckodriver	INFO	Listening on 127.0.0.1:54564
+1668223743138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "54565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile7cpvas"
+1668223743446	Marionette	INFO	Marionette enabled
+1668223743452	Marionette	INFO	Listening on port 54574
+Read port: 54574
+WebDriver BiDi listening on ws://127.0.0.1:54565
+1668223743555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile7cpvas\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54565/devtools/browser/5f2eee56-b2af-4046-bf87-810e6b7c443a
+1668223750725	geckodriver	INFO	Listening on 127.0.0.1:54589
+1668223753785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "54590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilevEYVfo"
+1668223754067	Marionette	INFO	Marionette enabled
+1668223754070	Marionette	INFO	Listening on port 54599
+Read port: 54599
+WebDriver BiDi listening on ws://127.0.0.1:54590
+1668223754173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilevEYVfo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54590/devtools/browser/72403f4e-590a-4ff9-84e3-04a0ac3747d6
+1668223759330	geckodriver	INFO	Listening on 127.0.0.1:54624
+1668223762361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "54625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile22Qk26"
+1668223762651	Marionette	INFO	Marionette enabled
+1668223762654	Marionette	INFO	Listening on port 54634
+Read port: 54634
+WebDriver BiDi listening on ws://127.0.0.1:54625
+1668223762742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668223971568	geckodriver	INFO	Listening on 127.0.0.1:54649
+1668223974614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--remote-debugging-port" "54650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile49Oh8j"
+1668223974885	Marionette	INFO	Marionette enabled
+1668223974888	Marionette	INFO	Listening on port 54659
+Read port: 54659
+WebDriver BiDi listening on ws://127.0.0.1:54650
+1668223975001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile49Oh8j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54650/devtools/browser/f3d63ef6-6629-4d0c-844f-a7bdb4040d96
+1668223982169	geckodriver	INFO	Listening on 127.0.0.1:54676
+1668223985203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--remote-debugging-port" "54677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileedd1TQ"
+1668223985464	Marionette	INFO	Marionette enabled
+1668223985467	Marionette	INFO	Listening on port 54686
+Read port: 54686
+WebDriver BiDi listening on ws://127.0.0.1:54677
+1668223985569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668223994735	geckodriver	INFO	Listening on 127.0.0.1:54693
+1668223997769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "disable-infobars" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--remote-debugging-port" "54694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileKnP5OK"
+1668223998066	Marionette	INFO	Marionette enabled
+1668223998070	Marionette	INFO	Listening on port 54703
+Read port: 54703
+WebDriver BiDi listening on ws://127.0.0.1:54694
+1668223998165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileKnP5OK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54694/devtools/browser/595d516e-862a-49e9-a7c0-fbf2f0c19a7d
+1668224002908	geckodriver	INFO	Listening on 127.0.0.1:54725
+1668224027713	geckodriver	INFO	Listening on 127.0.0.1:54741
+1668224030754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--remote-debugging-port" "54742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile2fYoLa"
+1668224031379	Marionette	INFO	Marionette enabled
+1668224031383	Marionette	INFO	Listening on port 54751
+Read port: 54751
+WebDriver BiDi listening on ws://127.0.0.1:54742
+1668224031468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile2fYoLa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54742/devtools/browser/e66655cf-820f-4f54-9972-0ec133321ca5
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%223268a774-f2dd-46d7-9537-d6639f7eae2e%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224062691	geckodriver	INFO	Listening on 127.0.0.1:54811
+1668224065736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "54812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileZXpZmy"
+1668224065999	Marionette	INFO	Marionette enabled
+1668224066003	Marionette	INFO	Listening on port 54821
+WebDriver BiDi listening on ws://127.0.0.1:54812
+Read port: 54821
+1668224066175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileZXpZmy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54812/devtools/browser/1644fcde-791f-470f-8538-bf740590b547
+1668224073216	geckodriver	INFO	Listening on 127.0.0.1:54848
+1668224098275	geckodriver	INFO	Listening on 127.0.0.1:54866
+1668224101334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--remote-debugging-port" "54867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileAk0UUj"
+1668224101608	Marionette	INFO	Marionette enabled
+1668224101611	Marionette	INFO	Listening on port 54876
+Read port: 54876
+WebDriver BiDi listening on ws://127.0.0.1:54867
+1668224101713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileAk0UUj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54867/devtools/browser/846cf5b4-f699-46fd-94ca-91c919ca9f86
+1668224108827	geckodriver	INFO	Listening on 127.0.0.1:54903
+1668224111860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--remote-debugging-port" "54904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileXKcTyU"
+1668224112128	Marionette	INFO	Marionette enabled
+1668224112132	Marionette	INFO	Listening on port 54913
+Read port: 54913
+WebDriver BiDi listening on ws://127.0.0.1:54904
+1668224112241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668224125908	geckodriver	INFO	Listening on 127.0.0.1:54919
+1668224128950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--remote-debugging-port" "54920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilembknFM"
+1668224129216	Marionette	INFO	Marionette enabled
+1668224129220	Marionette	INFO	Listening on port 54929
+Read port: 54929
+WebDriver BiDi listening on ws://127.0.0.1:54920
+1668224129316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilembknFM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54920/devtools/browser/5d329efd-bab2-4a57-9ac0-81080e4a2f2f
+1668224159302	geckodriver	INFO	Listening on 127.0.0.1:54983
+1668224162348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "54984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileJ6p7or"
+1668224162642	Marionette	INFO	Marionette enabled
+1668224162647	Marionette	INFO	Listening on port 54993
+Read port: 54993
+WebDriver BiDi listening on ws://127.0.0.1:54984
+1668224162738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileJ6p7or\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54984/devtools/browser/bb860814-6230-414c-88a2-15284972efa7
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%222c2c0d12-e811-40cf-a12f-577c4ae52ff0%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ndbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "55054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile4oFF1H"
+1668224176460	Marionette	INFO	Marionette enabled
+1668224176464	Marionette	INFO	Listening on port 55069
+Read port: 55069
+WebDriver BiDi listening on ws://127.0.0.1:55054
+1668224176546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofile4oFF1H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55054/devtools/browser/3d43fa09-e3e0-43d7-ad8e-8fd1246015e4
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%229b2be68e-82fa-4fe6-a8b9-3619ae152b0b%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to re1668224189474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+MFBejJ"
+1668224189776	Marionette	INFO	Marionette enabled
+1668224189780	Marionette	INFO	Listening on port 55142
+Read port: 55142
+WebDriver BiDi listening on ws://127.0.0.1:55117
+1668224189866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileMFBejJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55117/devtools/browser/f9c7682d-b3f9-4636-987b-f7786f2c5f56
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%228fe99464-5981-4a92-a9be-f6d13418f43a%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to re1668224204727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "55192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileSSBuC3"
+1668224205019	Marionette	INFO	Marionette enabled
+1668224205023	Marionette	INFO	Listening on port 55221
+Read port: 55221
+WebDriver BiDi listening on ws://127.0.0.1:55192
+1668224205111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileSSBuC3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55192/devtools/browser/20ff9933-d9bb-4cbc-b6d4-44ddfdc0f325
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22adb703a9-b880-4db7-add1-42db8c739a3e%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ndbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "55274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileEhvsU0"
+1668224216777	Marionette	INFO	Marionette enabled
+1668224216781	Marionette	INFO	Listening on port 55294
+Read port: 55294
+WebDriver BiDi listening on ws://127.0.0.1:55274
+1668224216883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileEhvsU0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55274/devtools/browser/db368630-8db2-433f-b473-585ab8394977
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22658f542f-25c8-455b-a062-bf5eef316f2f%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ndbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--remote-debugging-port" "55351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileAquGiH"
+1668224230252	Marionette	INFO	Marionette enabled
+1668224230256	Marionette	INFO	Listening on port 55372
+WebDriver BiDi listening on ws://127.0.0.1:55351
+Read port: 55372
+1668224230487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileAquGiH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55351/devtools/browser/e295499a-7d8d-4b02-b275-9331370ba5ee
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%224b701438-ea8f-43cc-b8c6-0b9abfc7df47%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224238995	geckodriver	INFO	Listening on 127.0.0.1:55429
+1668224242030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+rD01Nn"
+1668224242467	Marionette	INFO	Marionette enabled
+1668224242473	Marionette	INFO	Listening on port 55457
+Read port: 55457
+WebDriver BiDi listening on ws://127.0.0.1:55430
+1668224242585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668224264926	geckodriver	INFO	Listening on 127.0.0.1:55476
+1668224267973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "55477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilejGhaPa"
+*** You are running in headless mode.
+1668224268236	Marionette	INFO	Marionette enabled
+1668224268239	Marionette	INFO	Listening on port 55486
+WebDriver BiDi listening on ws://127.0.0.1:55477
+Read port: 55486
+1668224268442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilejGhaPa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55477/devtools/browser/e7be4bed-890b-48ab-b0c2-7edeee2eb359
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%220b157a7d-9535-4e23-b8eb-d2b1aec3a767%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/has1668224280990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "55551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileYDLxwx"
+*** You are running in headless mode.
+1668224281260	Marionette	INFO	Marionette enabled
+1668224281264	Marionette	INFO	Listening on port 55563
+WebDriver BiDi listening on ws://127.0.0.1:55551
+Read port: 55563
+1668224281461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileYDLxwx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55551/devtools/browser/a9f582c1-a1a9-442c-84f1-5dbff0450cb3
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22b2320281-1d18-43cc-b231-e033fd3bc2fe%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224289311	geckodriver	INFO	Listening on 127.0.0.1:55604
+1668224292380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+st_mozprofileOd0Uqf"
+*** You are running in headless mode.
+1668224292839	Marionette	INFO	Marionette enabled
+1668224292843	Marionette	INFO	Listening on port 55625
+WebDriver BiDi listening on ws://127.0.0.1:55605
+Read port: 55625
+1668224293093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileOd0Uqf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55605/devtools/browser/0be9e546-0e55-4288-ae39-89ecd4cf9904
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2278a11889-2114-491d-90b1-a18a4ee5a9b3%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224300588	geckodriver	INFO	Listening on 127.0.0.1:55661
+1668224307727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "55662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileAkBbdL"
+*** You are running in headless mode.
+1668224308127	Marionette	INFO	Marionette enabled
+1668224308131	Marionette	INFO	Listening on port 55693
+Read port: 55693
+WebDriver BiDi listening on ws://127.0.0.1:55662
+1668224308214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileAkBbdL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55662/devtools/browser/651649ba-0e8d-46d8-9c74-49f646180ce6
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%221e73232f-9b01-467b-bee5-18ac95daf64a%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224315124	geckodriver	INFO	Listening on 127.0.0.1:55742
+1668224318190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+st_mozprofilepuyG0o"
+*** You are running in headless mode.
+1668224318571	Marionette	INFO	Marionette enabled
+1668224318575	Marionette	INFO	Listening on port 55767
+Read port: 55767
+WebDriver BiDi listening on ws://127.0.0.1:55743
+1668224318674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilepuyG0o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55743/devtools/browser/03d1008a-caf3-4e57-96ea-a4b902948bb3
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22c30c5d4d-20d9-4542-8797-3ae1e64f0f8f%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to re1668224328882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+st_mozprofileGcUEz5"
+*** You are running in headless mode.
+1668224329179	Marionette	INFO	Marionette enabled
+1668224329183	Marionette	INFO	Listening on port 55844
+Read port: 55844
+WebDriver BiDi listening on ws://127.0.0.1:55818
+1668224329273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileGcUEz5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55818/devtools/browser/52266b04-6259-415f-ab99-93708412d0e2
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22d7179f88-02ad-4f3f-9242-c6c5790c8dbc%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224336814	geckodriver	INFO	Listening on 127.0.0.1:55893
+1668224339845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+st_mozprofileuBlcuM"
+*** You are running in headless mode.
+1668224340163	Marionette	INFO	Marionette enabled
+1668224340167	Marionette	INFO	Listening on port 55918
+Read port: 55918
+WebDriver BiDi listening on ws://127.0.0.1:55894
+1668224340266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileuBlcuM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55894/devtools/browser/11480e60-cf15-4d7e-aa4f-23746ce63c5f
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22d9b37fa2-9d64-46f8-b485-725c7c79c10a%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224356273	geckodriver	INFO	Listening on 127.0.0.1:55972
+1668224359325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "55973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilegdbVXu"
+*** You are running in headless mode.
+1668224359609	Marionette	INFO	Marionette enabled
+1668224359613	Marionette	INFO	Listening on port 56008
+Read port: 56008
+WebDriver BiDi listening on ws://127.0.0.1:55973
+1668224359710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilegdbVXu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55973/devtools/browser/0e9210e2-6feb-4ee8-baf6-0f70f02120cd
+1668224367420	geckodriver	INFO	Listening on 127.0.0.1:56054
+1668224370472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "56055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileBdCg2n"
+*** You are running in headless mode.
+1668224370783	Marionette	INFO	Marionette enabled
+1668224370787	Marionette	INFO	Listening on port 56084
+Read port: 56084
+WebDriver BiDi listening on ws://127.0.0.JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ettings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileBdCg2n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56055/devtools/browser/1d3540c7-7009-4af7-bcd2-daf92605ead9
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22825ac39a-d56f-485d-b36a-b25c991404b4%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668224379234	geckodriver	INFO	Listening on 127.0.0.1:56141
+1668224382268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+st_mozprofilesMtvGi"
+*** You are running in headless mode.
+1668224382585	Marionette	INFO	Marionette enabled
+1668224382590	Marionette	INFO	Listening on port 56161
+Read port: 56161
+WebDriver BiDi listening on ws://127.0.0.1:56142
+1668224382689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilesMtvGi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56142/devtools/browser/769914b8-1214-40cd-a6ab-8d7f7300fbf0
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%223337eff4-4065-4ddd-934c-1f43c5cce496%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668225155633	geckodriver	INFO	Listening on 127.0.0.1:56307
+1668225158648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "56308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilegHikrt"
+*** You are running in headless mode.
+1668225158953	Marionette	INFO	Marionette enabled
+1668225158957	Marionette	INFO	Listening on port 56317
+Read port: 56317
+WebDriver BiDi listening on ws://127.0.0.1:56308
+1668225159037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilegHikrt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56308/devtools/browser/e8fac3cc-1d4f-4bb2-9b95-466da0333daa
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2233648868-36f7-4610-b952-d52e514ad0aa%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+\rust_mozprofileEVmLfK"
+*** You are running in headless mode.
+1668225171613	Marionette	INFO	Marionette enabled
+1668225171617	Marionette	INFO	Listening on port 56381
+Read port: 56381
+WebDriver BiDi listening on ws://127.0.0.1:56362
+1668225171722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileEVmLfK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56362/devtools/browser/adcc0def-fc4f-4da5-bc7d-da2035bdadc0
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2297761490-0f08-4043-ba7b-4e4604926080%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668225180441	geckodriver	INFO	Listening on 127.0.0.1:56433
+1668225183501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+r BiDi listening on ws://127.0.0.1:56434
+Read port: 56454
+1668225184080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofiled7sGrX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56434/devtools/browser/56734e09-8d07-4d61-949f-78eb4da64573
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%223da19c8f-6b35-47d8-ba9c-ee1d881d6204%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to re1668225198628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "56503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\ruJavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+t: 56536
+WebDriver BiDi listening on ws://127.0.0.1:56503
+1668225199025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileEI1oV9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56503/devtools/browser/b02e8bbd-bf75-41ee-af16-72523d1f1dab
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22e3157487-7ea6-497c-a05c-7b5e76aa7513%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668225206708	geckodriver	INFO	Listening on 127.0.0.1:56586
+1668225209766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+t: 56611
+WebDriver BiDi listening on ws://127.0.0.1:56587
+1668225210275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilecNXQXO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56587/devtools/browser/24bb711a-090c-413f-a34f-96f5f2822f21
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22a2d254c0-9160-4948-b0e3-1655a73b730d%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to re1668225229617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+t: 56693
+WebDriver BiDi listening on ws://127.0.0.1:56676
+1668225230005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileVvIwU7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56676/devtools/browser/8a064716-8404-4226-a943-f71b5176d1ab
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%225d040177-d5f3-4095-9a44-b2d9a4cbc5c9%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668225238231	geckodriver	INFO	Listening on 127.0.0.1:56749
+1668225241249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+t: 56769
+WebDriver BiDi listening on ws://127.0.0.1:56750
+1668225241636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofilexK7jDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56750/devtools/browser/aae7539b-c90f-410a-a7eb-8de9be2ffbc9
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2299d6f486-4ca5-4eaa-bc1e-3615345d0b22%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668225257474	geckodriver	INFO	Listening on 127.0.0.1:56824
+1668225260513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-application-cache" "--disable-gpu" "--disable-dev-shm-usage" "--headless" "--remote-debugging-port" "56825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mario\\AppData\\Local\\Temp\\ruJavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+r BiDi listening on ws://127.0.0.1:56825
+Read port: 56860
+1668225261101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileGEK0Np\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56825/devtools/browser/1aabcc06-0378-4533-bc17-cca95426f3ae
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%2282a4a6f8-4c04-4595-828b-a26c4bd69c39%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668225269365	geckodriver	INFO	Listening on 127.0.0.1:56912
+1668225272391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+t: 56935
+WebDriver BiDi listening on ws://127.0.0.1:56913
+1668225272779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileWodvjm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56913/devtools/browser/c89e1742-d9fb-4d63-b156-f744a2d6086e
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22ace920c5-ff33-4464-a275-540ca6ddd874%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+1668225281753	geckodriver	INFO	Listening on 127.0.0.1:56989
+1668225284788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-extensions" "--no-sandbox" "--disable-JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined
+r BiDi listening on ws://127.0.0.1:56990
+Read port: 57010
+1668225285383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mario\\AppData\\Local\\Temp\\rust_mozprofileUerFlj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56990/devtools/browser/82998ab6-6fcf-42e8-8a30-e43ecf49ab93
+JavaScript error: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-98ad559f69b7862c.js#{%22ring%22:%22general%22,%22sessionId%22:%22565e8a39-faa6-4b97-99ab-96f54181b568%22,%22experienceName%22:%22main-renderer%22,%22buildVersion%22:%221.0.0.2022110317%22,%22orbitalVersions%22:{%22files%22:%2222093001500%22,%22multiWindow%22:%2222102807200%22}}, line 1: TypeError: this.i18n.isNamespaceLoaded is not a function
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript warning: https://statics.teams.cdn.office.net/hashed/skype-calling-pluginless.bundle-72796db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Unable to retrieve callStarted message in case of anonymous join
+JavaScript error: , line 0: uncaught exception: undefined

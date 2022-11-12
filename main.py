@@ -10,15 +10,15 @@ from selenium.common.exceptions import TimeoutException
 
 import threading
 
-#List of username
+# List of username
 name = ['Tony', 'Jora', 'Max']
 
 
 def browser(name):
     opt = ChromiumOptions()
-    #opt.add_argument("--headless")
-    #opt.add_argument("start-maximized")
-    #opt.add_argument("disable-infobars")
+    opt.add_argument("--headless")
+    # opt.add_argument("start-maximized")
+    # opt.add_argument("disable-infobars")
     opt.add_argument("use-fake-ui-for-media-stream")
     opt.add_experimental_option("excludeSwitches", ["enable-logging"])
     opt.add_experimental_option("detach", True)
